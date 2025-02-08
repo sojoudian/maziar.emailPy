@@ -12,7 +12,7 @@ This repository contains a simple HTTP server using Python’s built-in `http.se
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/python-http-server.git
+git clone https://github.com/mazair/maziar.emailPy.git
 cd python-http-server
 ```
 
